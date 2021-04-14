@@ -40,4 +40,4 @@ El itemDetail como bien indica sera el producto con sus caracteristicas, lo que 
 
 ItemList se encargara de ser el intermediario entre el **api** (llamado al backend desde el front) y el front para procesar u obtener respuesta.
 
-Tambien hay modulos transversales, como el header, el main layout o el breadcrumb que se comparten entre las dos vistas (search, and search detail)
+Tambien hay modulos transversales, como el header, el main layout, el spinner loader o el breadcrumb que se comparten entre las dos vistas (search, and search detail)
