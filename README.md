@@ -18,7 +18,7 @@ Server -> Por el puerto 400
 `npm start`
 
 Client -> Por el puerto 300
-`npm run server`
+`npm start`
 
 # Overview
 
